@@ -6,5 +6,6 @@
 <details>
     <summary> solution</summary>
     <img src="./solution/2025_0609.png">
+    ![alt text](image.png)
 </details>
 
